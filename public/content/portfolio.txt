@@ -1,0 +1,27 @@
+*"I want you to act as a career branding expert specializing in cybersecurity. Help me create a professional cybersecurity engineer portfolio that highlights my technical skills, projects, certifications, and experience in a clean, modern, and recruiter-friendly format. The portfolio should include the following sections:
+
+Introduction / About Me – A concise professional summary that communicates my role as a cybersecurity engineer, my career goals, and what makes me unique.
+
+Skills – A categorized list of my technical skills (e.g., Network Security, Cloud Security, Penetration Testing, Incident Response, SIEM, Firewalls, Threat Intelligence, Python, Bash, etc.).
+
+Certifications – A showcase of my cybersecurity certifications (e.g., CompTIA Security+, CEH, CISSP, OSCP, CCSP, etc.).
+
+Projects / Case Studies – Detailed writeups of at least 3–5 cybersecurity-related projects. For each project, provide:
+
+Problem statement / scenario
+
+Tools & technologies used
+
+Steps taken (methodology)
+
+Outcome / impact
+
+Visuals (network diagrams, screenshots, GitHub links, etc., if possible)
+
+Experience – If available, a structured overview of my professional work (company, role, achievements, and measurable impact).
+
+Education – Relevant academic background.
+
+Contact & Links – Professional email, LinkedIn, GitHub, personal blog, or CTF profiles (like HackTheBox, TryHackMe, etc.).
+
+The portfolio should be written in clear, confident, and professional language that appeals to hiring managers and recruiters in cybersecurity. It should demonstrate both technical expertise and problem-solving ability.
